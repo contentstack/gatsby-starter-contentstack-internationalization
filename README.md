@@ -26,13 +26,13 @@ You can check the [live demo](https://gatsbycontentstack.gatsbyjs.io/) to get fi
 
 Clone the following repo. It contains all the required dependencies.
 
-`git clone https://github.com/contentstack/gatsby-starter-contentstack-i18n.git`
+`git clone https://github.com/contentstack/gatsby-starter-contentstack-internationalization.git`
 
 ## Install dependencies 
 
 Go to the gatsby-starter-contentstack folder, and run the following:
 
-- `cd gatsby-starter-contentstack`
+- `cd gatsby-starter-contentstack-internationalization`
 - `npm install`
 
 This downloads the required files and initializes the site.

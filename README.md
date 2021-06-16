@@ -13,7 +13,7 @@ About this project: Create professional marketing-themed website using Gatsby.
 
 ## Live Demo
 
-You can check the [live demo](https://gatsby-starter-topaz.vercel.app/) to get first-hand experience of the website.
+You can check the [live demo](https://gatsbycontentstack.gatsbyjs.io/) to get first-hand experience of the website.
 
 ## Prerequisites
 
@@ -47,6 +47,8 @@ It should end up looking something like:
 CONTENTSTACK_API_KEY='Your Stack API Key'
 CONTENTSTACK_DELIVERY_TOKEN='Stack delivery token'
 CONTENTSTACK_ENVIRONMENT='development'
+# CONTENTSTACK_CDN=CDN_URL(compulsory for eu region/ optional for us)
+
 ```
 
 ## Run the website

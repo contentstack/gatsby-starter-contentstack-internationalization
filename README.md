@@ -1,11 +1,11 @@
 [![Contentstack](https://camo.githubusercontent.com/d24f513afa94a4a762533d54a0f590300dbd0413/68747470733a2f2f7777772e636f6e74656e74737461636b2e636f6d2f646f63732f7374617469632f696d616765732f636f6e74656e74737461636b2e706e67)](https://www.contentstack.com/)
 
 
-# Create a marketing website using Gatsby
+# Build a Multilingual Website using Gatsby and Contentstack
 
 About Contentstack: Contentstack is a headless CMS with an API-first approach that puts content at the centre. It is designed to simplify the process of publication by separating code from content.
 
-About this project: Create professional marketing-themed website using Gatsby.
+About this project: Gatsby is a blazingly fast, static site generator. This multilingual website is built using the contentstack-gatsby plugin and Contentstack. It uses Contentstack to store and deliver the content of the website.
 
 <img src='https://github.com/contentstack/gatsby-starter-contentstack-internationalization/blob/master/data/readme-assets/home-page-screenshot.png?raw=true' width='650'/>
 <img src='https://github.com/contentstack/gatsby-starter-contentstack-internationalization/raw/master/data/readme-assets/home-page-screenshot.png?raw=true' width='650'/>
@@ -13,55 +13,15 @@ About this project: Create professional marketing-themed website using Gatsby.
 
 ## Live Demo
 
-You can check the [live demo](https://gatsbycontentstack.gatsbyjs.io/) to get first-hand experience of the website.
-
-## Prerequisites
-
-- Install [nodejs](https://nodejs.org/en/) on your system.
-- Install Gatsby CLI.  
-
-`npm install -g gatsby-cli`
-
-## Clone the repo
-
-Clone the following repo. It contains all the required dependencies.
-
-`git clone https://github.com/contentstack/gatsby-starter-contentstack-internationalization.git`
-
-## Install dependencies 
-
-Go to the gatsby-starter-contentstack folder, and run the following:
-
-- `cd gatsby-starter-contentstack-internationalization`
-- `npm install`
-
-This downloads the required files and initializes the site.
-
-## Update Contentstack secrets
-
-Copy the `.env.sample` file to `.env.development` and `.env.production` and update with your Contentstack details, including your API key and delivery token.
-
-It should end up looking something like:
-
-```
-CONTENTSTACK_API_KEY='Your Stack API Key'
-CONTENTSTACK_DELIVERY_TOKEN='Stack delivery token'
-CONTENTSTACK_ENVIRONMENT='development'
-# CONTENTSTACK_CDN=CDN_URL(compulsory for eu region/ optional for us)
-
-```
-
-## Run the website
-
-`npm run develop`
+You can check the [live demo](https://gatsbycontentstack.gatsbyjs.io/) to get the first-hand experience on the website.
 
 ## Tutorial
 
-We have created an in-depth tutorial on how you can create a website using Gatsby. By following the steps given in the tutorial, design a website similar to the one given in the demo.
+We have created an in-depth tutorial on how you can create a Gatsby multilingual website.
 
-[Create a marketing website using Gatsby](https://www.contentstack.com/docs/example-apps/getting-started-with-gatsby-and-contentstack/)
+[Build a Multilingual Website using Gatsby and Contentstack]()
 
 **More resources:**
 
 - [Contentstack documentation](https://www.contentstack.com/docs/)
-- [Contentstack + Gatsby app tutorial](https://www.contentstack.com/docs/developers/sample-apps/build-a-sample-website-using-gatsby-and-contentstack)
+- [Gatsby documentation]()

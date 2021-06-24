@@ -19,9 +19,9 @@ You can check the [live demo](https://gatsbycontentstack.gatsbyjs.io/) to get th
 
 We have created an in-depth tutorial on how you can create a Gatsby multilingual website.
 
-[Build a Multilingual Website using Gatsby and Contentstack]()
+[Build a Multilingual Website using Gatsby and Contentstack](https://www.contentstack.com/docs/developers/sample-apps/build-a-multilingual-website-using-gatsby-and-contentstack/)
 
 **More resources:**
 
 - [Contentstack documentation](https://www.contentstack.com/docs/)
-- [Gatsby documentation]()
+- [Gatsby documentation](https://www.gatsbyjs.com/docs/)
